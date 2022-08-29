@@ -5,8 +5,8 @@ win = pygame.display.set_mode((500, 500))
 
 pygame.display.set_mode((100, 100))
 
-x = 50
-y = 50
+x = 80
+y = 80
 width = 40
 height = 60
 vel = 5
